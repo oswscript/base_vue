@@ -24,4 +24,6 @@ npm run build
 npm run clean
 ```
 #### This structure is based on this documentation
+```bash 
 [documentation](https://www.freecodecamp.org/news/how-to-create-a-vue-js-app-using-single-file-components-without-the-cli-7e73e5b8244f/)
+```
