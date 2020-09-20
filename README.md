@@ -1,4 +1,4 @@
-# base_vue
+# Base Vue Structure
 Base project to start vue simple project
 
 ## Installation
