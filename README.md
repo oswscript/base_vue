@@ -19,7 +19,7 @@ npm run serve
 ```bash
 npm run build
 ```
-#### Distribution Cleaning Command (dist folder)
+#### Distribution Cleaning Command (delete dist folder)
 ```bash
 npm run clean
 ```
