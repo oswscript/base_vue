@@ -1,13 +1,5 @@
 <template>
   <div id="app">
-    <input
-    
-      v-model="message"
-      type="text"
-
-    />
-
-      <h2 class="message">{{ message }}</h2>
       <router-view/>
   </div>  
 </template>

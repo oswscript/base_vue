@@ -9,7 +9,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Soy el componente Hellow world'
+      msg: 'Base Vue'
     }
   }
 }
